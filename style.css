@@ -1,0 +1,84 @@
+header {
+    color:rgb(0, 0, 255);
+    text-align:center;
+    background-image:        url("https://w0.peakpx.com/wallpaper/657/741/HD-wallpaper-closeup-view-of-bunch-of-blue-roses-petals-blue.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+  }
+  h1 {
+    color:rgb(0, 0, 255);
+    border-style: solid;
+    text-align:center;
+    background-color: black;
+  }
+  img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    
+  }
+  
+  address {
+    text-align:center;
+  }
+  main {
+    color:rgb(0, 0, 255);
+    border-style: outset;
+    text-align:center;
+    text-shadow: 2px 2px grey;
+   
+  }
+  .section1 {
+    color:rgb(0, 0, 255);
+    border-style: outset;
+    text-align:center;
+    text-shadow: 2px 2px grey;
+  }
+  
+  .section2 {
+    color:rgb(0, 0, 255);
+    border-style: outset;
+    text-align:center;
+    text-shadow: 2px 2px grey;
+  }
+  
+  ol {
+    text-align:center;
+    list-style-position:inside; 
+  }
+  
+  .footer1{
+    color:rgb(0, 0, 255);
+    border-style: outset;
+    text-align:center;
+    text-shadow: 2px 2px grey;
+  }
+  
+  .footer2 {
+    color:rgb(0, 0, 255);
+    border-style: outset;
+    text-align:center;
+    text-shadow: 2px 2px grey;
+  }
+  
+  p {
+    text-align:center;
+  }
+  
+  .fecha {
+    text-align:center;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+     line-height: 0.1;
+     outline-width: medium;
+  }
+  
+  nav {
+    text-align:center;
+  }
+  
